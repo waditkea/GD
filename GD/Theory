@@ -1,0 +1,20 @@
+#pip install virtualenv
+#virtualenv .GD
+#.GD\Scripts\activate
+#pip install django
+#django-admin startproject (project name)
+#GD:main project
+#GD:package
+#init:empty:it defines the package
+#asgi:configure settings.py
+#settings:secrectkey,debug,installed apps,databases,
+#urls:admin,startpoint for every app's url
+#wsgi:configure settings.py
+#manage:deploy or run our app
+#to create new application:py manage.py startapp (appname)
+#makemigrationgs:reads the query internally
+#migrate:converts the query in table
+#py manage.py makemigrations
+#py manage.py migrate
+#py manage.py createsuperuser
+#
